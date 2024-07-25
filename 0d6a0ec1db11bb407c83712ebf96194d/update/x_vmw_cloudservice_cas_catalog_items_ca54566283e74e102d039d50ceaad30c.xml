@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_vmw_cloudservice_cas_catalog_items">
+    <x_vmw_cloudservice_cas_catalog_items action="INSERT_OR_UPDATE">
+        <access_type>restricted</access_type>
+        <active>true</active>
+        <availability>on_both</availability>
+        <billable>false</billable>
+        <cas_uid>a9996fac-8cdb-3ddf-b2b3-75d68d48c024</cas_uid>
+        <category display_value="Demo Project">a4d2126e83674e102d039d50ceaad34a</category>
+        <checked_out/>
+        <cost>0</cost>
+        <custom_cart/>
+        <day2_actions/>
+        <delivery_plan/>
+        <delivery_plan_script/>
+        <delivery_time>1970-01-03 00:00:00</delivery_time>
+        <description/>
+        <display_price_property>non_zero</display_price_property>
+        <entitlement_script/>
+        <flow_designer_flow/>
+        <fulfillment_automation_level>unspecified</fulfillment_automation_level>
+        <group/>
+        <hide_sp>false</hide_sp>
+        <icon/>
+        <ignore_price>true</ignore_price>
+        <image/>
+        <location/>
+        <make_item_non_conversational>false</make_item_non_conversational>
+        <mandatory_attachment>false</mandatory_attachment>
+        <meta/>
+        <mobile_hide_price>false</mobile_hide_price>
+        <mobile_picture/>
+        <mobile_picture_type>use_desktop_picture</mobile_picture_type>
+        <model/>
+        <name>demo catalog</name>
+        <no_attachment_v2>false</no_attachment_v2>
+        <no_cart>false</no_cart>
+        <no_cart_v2>false</no_cart_v2>
+        <no_delivery_time_v2>false</no_delivery_time_v2>
+        <no_order>false</no_order>
+        <no_order_now>false</no_order_now>
+        <no_proceed_checkout>false</no_proceed_checkout>
+        <no_quantity>true</no_quantity>
+        <no_quantity_v2>false</no_quantity_v2>
+        <no_save_as_draft>false</no_save_as_draft>
+        <no_search>false</no_search>
+        <no_wishlist_v2>false</no_wishlist_v2>
+        <omit_price>false</omit_price>
+        <order>0</order>
+        <ordered_item_link/>
+        <organisation_name display_value="cloud">d5e1562283274e102d039d50ceaad3b3</organisation_name>
+        <owner display_value="">system</owner>
+        <picture>5a54566283e74e102d039d50ceaad3fc</picture>
+        <preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=ca54566283e74e102d039d50ceaad30c&amp;sysparm_preview=true", "summary");</preview>
+        <price>0</price>
+        <projects_id>aa2c3d0d-8a4e-446b-ab9d-d4d55e32cd53,</projects_id>
+        <published_ref/>
+        <recurring_frequency/>
+        <request_method/>
+        <roles/>
+        <sc_catalogs>e0d08b13c3330100c8b837659bba8fb4</sc_catalogs>
+        <sc_ic_item_staging/>
+        <sc_ic_version/>
+        <sc_template/>
+        <short_description/>
+        <show_variable_help_on_load>false</show_variable_help_on_load>
+        <start_closed>false</start_closed>
+        <state/>
+        <sys_class_name>x_vmw_cloudservice_cas_catalog_items</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-07-25 09:20:23</sys_created_on>
+        <sys_id>ca54566283e74e102d039d50ceaad30c</sys_id>
+        <sys_mod_count>100</sys_mod_count>
+        <sys_name>demo catalog</sys_name>
+        <sys_package display_value="VMware Aria Automation Plugin" source="x_vmw_cloudservice">0d6a0ec1db11bb407c83712ebf96194d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="VMware Aria Automation Plugin">0d6a0ec1db11bb407c83712ebf96194d</sys_scope>
+        <sys_update_name>x_vmw_cloudservice_cas_catalog_items_ca54566283e74e102d039d50ceaad30c</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-07-25 09:21:24</sys_updated_on>
+        <taxonomy_topic/>
+        <template/>
+        <template_manager_roles/>
+        <type>item</type>
+        <u_deleted_version/>
+        <uniquefiled/>
+        <use_sc_layout>false</use_sc_layout>
+        <vendor/>
+        <version>100</version>
+        <versions>6.2.1,10.001,40.001,30.20,2,1,</versions>
+        <visible_bundle>true</visible_bundle>
+        <visible_guide>true</visible_guide>
+        <visible_standalone>true</visible_standalone>
+        <workflow display_value="VMware Aria Automation Request Workflow">80d0d374db2733007b245385ca96194e</workflow>
+    </x_vmw_cloudservice_cas_catalog_items>
+    <sys_translated_text action="delete_multiple" query="documentkey=ca54566283e74e102d039d50ceaad30c"/>
+    <fx_price action="delete_multiple" query="id=ca54566283e74e102d039d50ceaad30c"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>price</field>
+        <id>ca54566283e74e102d039d50ceaad30c</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-07-25 09:20:23</sys_created_on>
+        <sys_id>4a54566283e74e102d039d50ceaad38a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-07-25 09:20:23</sys_updated_on>
+        <table>x_vmw_cloudservice_cas_catalog_items</table>
+        <type>calculated</type>
+    </fx_price>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <file_name>3fcb5e56-d841-32d6-91ac-5be8c3ff4c9d/png</file_name>
+        <hash>8c034a247c2b9a81c4d6777175c9fa712843dd813c139b36f6bbf4f2bc2127f3</hash>
+        <image_height>225</image_height>
+        <image_width>225</image_width>
+        <size_bytes>4789</size_bytes>
+        <size_compressed>4812</size_compressed>
+        <state>available</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-07-25 09:20:24</sys_created_on>
+        <sys_id>5a54566283e74e102d039d50ceaad3fc</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-07-25 09:20:25</sys_updated_on>
+        <table_name>x_vmw_cloudservice_cas_catalog_items</table_name>
+        <table_sys_id>ca54566283e74e102d039d50ceaad30c</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAA/w==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="3fcb5e56-d841-32d6-91ac-5be8c3ff4c9d/png" sys_id="5a54566283e74e102d039d50ceaad3fc">5a54566283e74e102d039d50ceaad3fc</sys_attachment>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-07-25 09:20:24</sys_created_on>
+        <sys_id>9a54566283e74e102d039d50ceaad3fc</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>6404</length>
+        <position>1</position>
+        <sys_attachment display_value="3fcb5e56-d841-32d6-91ac-5be8c3ff4c9d/png" sys_id="5a54566283e74e102d039d50ceaad3fc">5a54566283e74e102d039d50ceaad3fc</sys_attachment>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-07-25 09:20:24</sys_created_on>
+        <sys_id>1e54566283e74e102d039d50ceaad3fc</sys_id>
+    </sys_attachment_doc>
+</record_update>

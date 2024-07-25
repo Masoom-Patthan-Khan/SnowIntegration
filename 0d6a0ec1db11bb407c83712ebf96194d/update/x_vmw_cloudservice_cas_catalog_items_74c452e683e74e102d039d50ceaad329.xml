@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_vmw_cloudservice_cas_catalog_items">
+    <x_vmw_cloudservice_cas_catalog_items action="INSERT_OR_UPDATE">
+        <access_type>restricted</access_type>
+        <active>true</active>
+        <availability>on_both</availability>
+        <billable>false</billable>
+        <cas_uid>37a25989-5738-37e8-8cbd-9d7ec02754c0</cas_uid>
+        <category display_value="Amazon- Project">e7d25e6e83674e102d039d50ceaad3cc</category>
+        <checked_out/>
+        <cost>0</cost>
+        <custom_cart/>
+        <day2_actions/>
+        <delivery_plan/>
+        <delivery_plan_script/>
+        <delivery_time>1970-01-03 00:00:00</delivery_time>
+        <description/>
+        <display_price_property>non_zero</display_price_property>
+        <entitlement_script/>
+        <flow_designer_flow/>
+        <fulfillment_automation_level>unspecified</fulfillment_automation_level>
+        <group/>
+        <hide_sp>false</hide_sp>
+        <icon/>
+        <ignore_price>true</ignore_price>
+        <image/>
+        <location/>
+        <make_item_non_conversational>false</make_item_non_conversational>
+        <mandatory_attachment>false</mandatory_attachment>
+        <meta/>
+        <mobile_hide_price>false</mobile_hide_price>
+        <mobile_picture/>
+        <mobile_picture_type>use_desktop_picture</mobile_picture_type>
+        <model/>
+        <name>NewTest4Icon_PNG_BP</name>
+        <no_attachment_v2>false</no_attachment_v2>
+        <no_cart>false</no_cart>
+        <no_cart_v2>false</no_cart_v2>
+        <no_delivery_time_v2>false</no_delivery_time_v2>
+        <no_order>false</no_order>
+        <no_order_now>false</no_order_now>
+        <no_proceed_checkout>false</no_proceed_checkout>
+        <no_quantity>true</no_quantity>
+        <no_quantity_v2>false</no_quantity_v2>
+        <no_save_as_draft>false</no_save_as_draft>
+        <no_search>false</no_search>
+        <no_wishlist_v2>false</no_wishlist_v2>
+        <omit_price>false</omit_price>
+        <order>0</order>
+        <ordered_item_link/>
+        <organisation_name display_value="cloud">d5e1562283274e102d039d50ceaad3b3</organisation_name>
+        <owner display_value="">system</owner>
+        <picture>70c492e683e74e102d039d50ceaad332</picture>
+        <preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=74c452e683e74e102d039d50ceaad329&amp;sysparm_preview=true", "summary");</preview>
+        <price>0</price>
+        <projects_id>86c8adba-b6c9-46ed-968c-157783edc499,</projects_id>
+        <published_ref/>
+        <recurring_frequency/>
+        <request_method/>
+        <roles/>
+        <sc_catalogs>e0d08b13c3330100c8b837659bba8fb4</sc_catalogs>
+        <sc_ic_item_staging/>
+        <sc_ic_version/>
+        <sc_template/>
+        <short_description>MK_NewTest4Icon_PNG_BP</short_description>
+        <show_variable_help_on_load>false</show_variable_help_on_load>
+        <start_closed>false</start_closed>
+        <state/>
+        <sys_class_name>x_vmw_cloudservice_cas_catalog_items</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-07-25 09:22:12</sys_created_on>
+        <sys_id>74c452e683e74e102d039d50ceaad329</sys_id>
+        <sys_mod_count>11</sys_mod_count>
+        <sys_name>NewTest4Icon_PNG_BP</sys_name>
+        <sys_package display_value="VMware Aria Automation Plugin" source="x_vmw_cloudservice">0d6a0ec1db11bb407c83712ebf96194d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="VMware Aria Automation Plugin">0d6a0ec1db11bb407c83712ebf96194d</sys_scope>
+        <sys_update_name>x_vmw_cloudservice_cas_catalog_items_74c452e683e74e102d039d50ceaad329</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-07-25 09:22:16</sys_updated_on>
+        <taxonomy_topic/>
+        <template/>
+        <template_manager_roles/>
+        <type>item</type>
+        <u_deleted_version/>
+        <uniquefiled/>
+        <use_sc_layout>false</use_sc_layout>
+        <vendor/>
+        <version>11</version>
+        <versions>1,</versions>
+        <visible_bundle>true</visible_bundle>
+        <visible_guide>true</visible_guide>
+        <visible_standalone>true</visible_standalone>
+        <workflow display_value="VMware Aria Automation Request Workflow">80d0d374db2733007b245385ca96194e</workflow>
+    </x_vmw_cloudservice_cas_catalog_items>
+    <sys_translated_text action="delete_multiple" query="documentkey=74c452e683e74e102d039d50ceaad329"/>
+    <fx_price action="delete_multiple" query="id=74c452e683e74e102d039d50ceaad329"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>price</field>
+        <id>74c452e683e74e102d039d50ceaad329</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-07-25 09:22:12</sys_created_on>
+        <sys_id>7cc452e683e74e102d039d50ceaad32a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-07-25 09:22:12</sys_updated_on>
+        <table>x_vmw_cloudservice_cas_catalog_items</table>
+        <type>calculated</type>
+    </fx_price>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/bmp</content_type>
+        <file_name>3b6081fb-1cda-38d8-9051-c88c00e8f25a/bmp</file_name>
+        <hash>84a39cf3d9e0c24fdc12a2937a56117eed49e8cd3b29c85422352b233ed42dc8</hash>
+        <image_height>50</image_height>
+        <image_width>50</image_width>
+        <size_bytes>10594</size_bytes>
+        <size_compressed>2597</size_compressed>
+        <state>available</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-07-25 09:22:13</sys_created_on>
+        <sys_id>70c492e683e74e102d039d50ceaad332</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-07-25 09:22:13</sys_updated_on>
+        <table_name>x_vmw_cloudservice_cas_catalog_items</table_name>
+        <table_sys_id>74c452e683e74e102d039d50ceaad329</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAA/w==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="3b6081fb-1cda-38d8-9051-c88c00e8f25a/bmp" sys_id="70c492e683e74e102d039d50ceaad332">70c492e683e74e102d039d50ceaad332</sys_attachment>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-07-25 09:22:13</sys_created_on>
+        <sys_id>b0c492e683e74e102d039d50ceaad332</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>3452</length>
+        <position>1</position>
+        <sys_attachment display_value="3b6081fb-1cda-38d8-9051-c88c00e8f25a/bmp" sys_id="70c492e683e74e102d039d50ceaad332">70c492e683e74e102d039d50ceaad332</sys_attachment>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-07-25 09:22:13</sys_created_on>
+        <sys_id>34c492e683e74e102d039d50ceaad332</sys_id>
+    </sys_attachment_doc>
+</record_update>
